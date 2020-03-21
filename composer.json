@@ -1,0 +1,17 @@
+{
+  "name": "lukinysega/todo",
+  "description": "A simple todo list application.",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Sergey Lukin",
+      "email": "contact@lukin.site"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
